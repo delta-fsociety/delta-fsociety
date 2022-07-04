@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @delta-fsociety
 - 👀 I’m interested in Network security
-- 🌱 I’m currently learning CEH V11 
+- 🌱 I’m currently learning CEH V11
 - 💞️ I’m looking to collaborate on anything that feels cool
 - 📫 How to reach me : twitter :delta_fsociety
 
